@@ -1,1 +1,1 @@
-https://t.me/addstickers/Blum_PokrasLampas
+   src="https://github.com/<Your github username>/UZFOREVERJON<Your github username>/blob/main/devcard.svg"
